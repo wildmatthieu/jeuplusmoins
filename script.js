@@ -1,4 +1,4 @@
-const playerName = prompt("quel est votre nom ?");
+const playerName = prompt("quel est votre prénom ?");
 
 const numberToGuess = Math.ceil(Math.random() * 100);
 
